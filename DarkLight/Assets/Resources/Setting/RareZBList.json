@@ -1,0 +1,44 @@
+[
+    {
+        "WeaponID": "2007",
+        "EtcID1": "2006",
+        "Etc1Num": "1",
+        "EtcID2": "3001",
+        "Etc2Num": "10"
+    },
+    {
+        "WeaponID": "2009",
+        "EtcID1": "2008",
+        "Etc1Num": "2",
+        "EtcID2": "3002",
+        "Etc2Num": "5"
+    },
+    {
+        "WeaponID": "2011",
+        "EtcID1": "2010",
+        "Etc1Num": "1",
+        "EtcID2": "2005",
+        "Etc2Num": "3"
+    },
+    {
+        "WeaponID": "2017",
+        "EtcID1": "2016",
+        "Etc1Num": "2",
+        "EtcID2": "3002",
+        "Etc2Num": "2"
+    },
+    {
+        "WeaponID": "2021",
+        "EtcID1": "3002",
+        "Etc1Num": "2",
+        "EtcID2": "3001",
+        "Etc2Num": "30"
+    },
+    {
+        "WeaponID": "2022",
+        "EtcID1": "2020",
+        "Etc1Num": "4",
+        "EtcID2": "2006",
+        "Etc2Num": "2"
+    }
+]
